@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: LootSpam
+## Notes: Announces loot in raid-chat if you are Master Looter.
+## Author: Steino
+## Version: 1.0
+
+loot.lua
